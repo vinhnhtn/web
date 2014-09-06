@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+web365.vn	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	psuvbnvg2yvo3cr4et15q01u
+
